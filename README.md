@@ -1,5 +1,8 @@
 ## Hi there, I'm Justin 👋
 
+I am 19 Year Old Computer Science student focusing on Software Development. On the side, I enjoy making interactive applications and designs that people can use and enjoy.
+
+I am...
 
 I'm currently working on a few projects such as: a social page for a content creators, a metra interactive map, and my personal website
 <!--
