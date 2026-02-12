@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Justin 👋
 
+
+I'm currently working on a few projects such as: a social page for a content creators, a metra interactive map, and my personal website
 <!--
 **jusqwak/jusqwak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
