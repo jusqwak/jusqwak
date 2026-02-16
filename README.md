@@ -4,7 +4,10 @@ I am 19 Year Old Computer Science student focusing on Software Development. On t
 
 I am...
 
-I'm currently working on a few projects such as: a social page for a content creators, a metra interactive map, and my personal website
+I'm currently working on a few projects such as:
+  Minimalist Metra Map:
+  Personal Website/Site Template: 
+  
 <!--
 **jusqwak/jusqwak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
