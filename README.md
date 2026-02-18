@@ -3,22 +3,11 @@
 ## Hi there, I'm Justin 👋
 I am 19 Year Old Computer Science student focusing on Software Development. On the side, I enjoy making interactive applications and designs that people can use and enjoy.<br/>
 
+I have always had interest in creating experiences for other people to enjoy. This and coupled with my fascination with technology, it led me to be work with the very things that I spent my early days playing on.<br/>
+
+Now, I am learning all about software engineering at the University of Illinois Chicago. Even on my own time, I learning about web development, creating application and automation using React, Node.js, and API usage. I've been focused on working with others to experience through user interfaces and applications, such as joining UIC SparkHacks.
+
 I'm currently working on a few projects such as:<br/>
 
   [Minimalist Metra Map](https://github.com/jusqwak/Minimalist-Interactive-Metra-Map): An interactive map of the Metra rail system. Currently works just as a visual representation<br/>
   [Personal Website](https://qwaksite.jusimpoy.workers.dev/)/[Site Template](https://github.com/jusqwak/zoombox-site-template): A website that displays information about me and creating a template based that format<br/>
-  
-<!--
-**jusqwak/jusqwak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
