@@ -3,11 +3,9 @@
 ## Hi there, I'm Justin 👋
 I am 19 Year Old Computer Science student focusing on Software Development. On the side, I enjoy making interactive applications and designs that people can use and enjoy.
 
-I am...
-
 I'm currently working on a few projects such as:
-  Minimalist Metra Map:
-  Personal Website/Site Template: 
+  [Minimalist Metra Map](https://github.com/jusqwak/Minimalist-Interactive-Metra-Map): An interactive map of the Metra rail system. Currently works just as a visual representation
+  [Personal Website](https://qwaksite.jusimpoy.workers.dev/)/[Site Template](https://github.com/jusqwak/zoombox-site-template): A website that displays information about me and creating a template based that format
   
 <!--
 **jusqwak/jusqwak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
