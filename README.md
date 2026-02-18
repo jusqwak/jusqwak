@@ -1,4 +1,4 @@
-<img width="1200" height="675" alt="Untitled (1)" src="https://github.com/user-attachments/assets/302c7120-82bf-4eb7-8df2-66206bbab2c9" />
+<img width="600" height="300" alt="Untitled (1)" src="https://github.com/user-attachments/assets/302c7120-82bf-4eb7-8df2-66206bbab2c9" />
 
 ## Hi there, I'm Justin 👋
 I am 19 Year Old Computer Science student focusing on Software Development. On the side, I enjoy making interactive applications and designs that people can use and enjoy.
