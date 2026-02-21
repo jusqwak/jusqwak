@@ -7,6 +7,8 @@ I have always had interest in creating experiences for other people to enjoy. Th
 
 Now, I am learning all about software engineering at the University of Illinois Chicago. Even on my own time, I learning about web development, creating application and automation using React, Node.js, and API usage. I've been focused on working with others to experience through user interfaces and applications, such as joining UIC SparkHacks and working with creators to achieve tech goals.
 
+I have experience with Languages as JavaScript, Python, C++ and HTML+CSS. In addition, expereince with tools such as React, Framer Motion and various APIs.
+
 I'm currently working on a few projects such as:<br/>
 
   [Minimalist Metra Map](https://github.com/jusqwak/Minimalist-Interactive-Metra-Map): An interactive map of the Metra rail system. Currently works just as a visual representation<br/>
