@@ -13,3 +13,4 @@ I'm currently working on a few projects such as:<br/>
 
   [Minimalist Metra Map](https://github.com/jusqwak/Minimalist-Interactive-Metra-Map): An interactive map of the Metra rail system. Currently works just as a visual representation<br/>
   [Personal Website](https://qwaksite.jusimpoy.workers.dev/)/[Site Template](https://github.com/jusqwak/zoombox-site-template): A website that displays information about me and creating a template based that format<br/>
+  [Info Database](https://github.com/jusqwak/Info-Database): A database program that stores data that a user inputs<br/>
