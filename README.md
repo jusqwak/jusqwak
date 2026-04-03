@@ -3,11 +3,11 @@
 ## Hi there, I'm Justin 👋
 I am 20 Year Old Computer Science student focusing on Software Development. On the side, I enjoy making interactive applications and designs that people can use and enjoy.<br/>
 
-I have always had interest in creating experiences for other people to be satisfied with. This, coupled with my fascination with technology, it led me to be work with the very things that I spent my early days playing on.<br/>
+I have always had interest in creating experiences for other people to be satisfied with. This, coupled with my fascination with technology, has led me to work with the very things that I spent my early days playing on.<br/>
 
-Now, I am learning all about software engineering at the University of Illinois Chicago. Even on my own time, I learning about web development, creating application and automation using React, Node.js, and API usage. I've been focused on working with others to experience through user interfaces and applications, such as joining UIC SparkHacks and working with creators to achieve tech goals.
+Now, I am learning all about software engineering at the University of Illinois Chicago. Even on my own time, I've been learning about web development, creating applications and automation using React, Node.js, and API usage. I've been focused on working with others to experience through user interfaces and applications, such as joining UIC SparkHacks and working with creators to achieve their needs and goals.
 
-I have experience with Languages as JavaScript, Python, C++ and HTML+CSS. In addition, expereince with tools such as React, Framer Motion and various APIs.
+I have experience with Languages as JavaScript, Python, C++ and HTML+CSS. In addition, expereince with tools such as React, Framer Motion and various APIs (Twitch, Discord, Metra).
 
 I'm currently working on a few projects such as:<br/>
 
